@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Chawhan
 =====================================================================================================================================
 
-Web Developer
+Python Developer
 -------------
 
 I am a passionate Django developer specializing in creating dynamic and robust websites. With a strong background in Python and web development, I focus on building scalable and efficient web applications that provide seamless user experiences.
