@@ -74,8 +74,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LordMelodias&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordMelodias&theme=dark&hide_border=false" height="200" alt="GitHub Streak" /> <br> <img src="https://github-readme-stats.vercel.app/api?username=LordMelodias&show_icons=true&theme=dark&hide_border=false" height="200" alt="GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordMelodias&layout=compact&theme=dark&hide_border=false" height="150" alt="Most Used Languages" /> </div>
 
 ###
