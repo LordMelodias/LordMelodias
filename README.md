@@ -75,12 +75,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LordMelodias&show_icons=true&theme=dark&hide_border=false&border_radius=5&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LordMelodias&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=LordMelodias&theme=radical&hide_border=true&border_radius=10&mode=daily" height="180" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LordMelodias&theme=radical&no-frame=true&margin-w=15" alt="Trophy" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LordMelodias&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
