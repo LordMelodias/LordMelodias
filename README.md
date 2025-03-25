@@ -16,11 +16,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LordMelodias.LordMelodias&style=flat-square" />
-</div>
 
 ###
 
@@ -80,7 +75,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LordMelodias&show_icons=true&theme=dark&hide_border=false&border_radius=5&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LordMelodias&show_icons=true&theme=dark&hide_border=false&border_radius=5&count_private=false" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=LordMelodias&theme=dark&hide_border=false&border_radius=5&mode=daily" height="180" alt="GitHub Streak" />
 </div>
 
