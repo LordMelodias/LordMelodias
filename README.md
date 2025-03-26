@@ -70,6 +70,9 @@ solutions.<br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="Bash logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
 </div>
 
 ###
