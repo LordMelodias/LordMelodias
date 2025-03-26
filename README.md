@@ -28,7 +28,11 @@
 ###
 
 <p align="left">
-  I'm <strong>Rohit Chawhan</strong> from Mumbai.<br><br>
+  I'm <strong>Python Backend Developer</strong> with expertise in Flask and Django, specializing in audio, 
+video, and image processing. Proficient in SQL and NoSQL databases, AI libraries, and currently 
+expanding knowledge in cloud computing. Seeking an opportunity to apply my skills in building 
+scalable, high-performance applications while leveraging cloud technologies for efficient and modern 
+solutions.<br><br>
   🔭 Working as a <strong>Python Developer</strong><br>
   📚 Currently learning <strong>Cloud Computing</strong><br>
   ⚡ Fun fact: I love reading books in my free time
