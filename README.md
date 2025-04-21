@@ -34,7 +34,7 @@ Currently expanding my expertise in data engineering, including data pipelines, 
 big data tools. Seeking an opportunity to apply my skills in building scalable, high-performance 
 applications while leveraging modern data engineering practices for robust and efficient solutions.<br><br>
   🔭 Working as a <strong>Python Developer</strong><br>
-  📚 Currently learning <strong>Cloud Computing</strong><br>
+  📚 Currently learning <strong>Data Engineering</strong><br>
   ⚡ Fun fact: I love reading books in my free time
 </p>
 
